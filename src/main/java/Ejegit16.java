@@ -15,6 +15,7 @@ public class Ejegit16 {
      */
     public static void main(String[] args) {
         System.out.println("Hoy es Jueves");
+        System.out.println("Datos actualizados ");
     }
     
 }
